@@ -39,6 +39,20 @@
   image: LeonKornfeldSilly.png
   imageFun: LeonKornfeld.jpg
 
+- name: Andrew Song
+  email: andrew_song@
+  role: Head Lab TA
+  bio: Hey everyone! I'm Andrew and I'm a 4th year EECS & IEOR major. I enjoy playing poker, watching football and hockey, and waking up for those 6am F1 races. Looking forward to another semester of 16A!
+  image: AndrewSong.jpg
+  imageFun: AndrewSongFun.jpg
+- name: Tanya Deniz Ipek
+  email: tanyadenizipek@
+  role: Head Lab TA
+  bio: Hello! I am an EECS PhD Candidate in Prof. Chunlei Liu's lab, where I work on pulse sequence design for magnetic resonance imaging. My research is fundamentally based on signal processing, and I am very excited to teach 16A, since it introduces many of the core concepts that are essential to my work. Outside of research and teaching, I enjoy watching k-dramas, painting, and traveling to explore new places whenever I can. I’m really looking forward to meeting you all, and please feel free to reach out if you have questions about the course or about grad school!
+  image: TanyaIpek.jpg
+  # imageFun: TanyaDenizIpeksilly.jpeg
+  pronouns: she/her/hers
+
 - name: Benjamin Karish
   email: benjaminkarish04@
   role: Content, Discussion TA
@@ -94,20 +108,6 @@
   imageFun: MallikaAgrawalsilly.jpg
   pronouns: she/her/hers
 
-
-- name: Andrew Song
-  email: andrew_song@
-  role: Head Lab TA
-  bio: Hey everyone! I'm Andrew and I'm a 4th year EECS & IEOR major. I enjoy playing poker, watching football and hockey, and waking up for those 6am F1 races. Looking forward to another semester of 16A!
-  image: AndrewSong.jpg
-  imageFun: AndrewSongFun.jpg
-- name: Tanya Deniz Ipek
-  email: tanyadenizipek@
-  role: Head Lab TA
-  bio: Hello! I am an EECS PhD Candidate in Prof. Chunlei Liu's lab, where I work on pulse sequence design for magnetic resonance imaging. My research is fundamentally based on signal processing, and I am very excited to teach 16A, since it introduces many of the core concepts that are essential to my work. Outside of research and teaching, I enjoy watching k-dramas, painting, and traveling to explore new places whenever I can. I’m really looking forward to meeting you all, and please feel free to reach out if you have questions about the course or about grad school!
-  image: TanyaIpek.jpg
-  # imageFun: TanyaDenizIpeksilly.jpeg
-  pronouns: she/her/hers
 
 - name: Robert Zhang
   email: robertrzhang@
@@ -166,6 +166,22 @@
   # imageFun: KerryPansilly.png
 
 
+- name: Samik Garg
+  email: samik_garg@
+  role: Lab Tutor
+  bio: Hi! I’m Samik, a second-year EECS major here at Berkeley. I was born in Delhi, India and lived in Singapore for most of my life. This is my first semester as course staff for EECS 16A. My technical interests are in AI/ML, Full Stack Development and Mobile App Development. I also enjoy traveling and playing video games in my free time.
+  image: SamikGarg.jpg
+  imageFun: SamikGargsilly.jpg
+  pronouns: He/Him
+
+- name: Alok Thakrar
+  email: aut@
+  role: Lab Tutor
+  bio: Hello! I'm a 2nd year EECS major from Santa Barbara, California. I'm currently involved in a computational genomics research, and am excited about the intersection of math and computing. Outside the classroom, I enjoy making fun room decor, frequenting Chipotle, and playing bughouse. Looking forward to an exquisite semester with ya'll!!
+  image: AlokThakrar.png
+  imageFun: AlokThakrarsilly.png
+  pronouns: he/him
+
 - name: Sid Banerjee
   email: sidbanerjee@
   role: Homework Tutor
@@ -198,13 +214,6 @@
   # imageFun: CameronJordansilly.png
   pronouns: he/him/his
 
-- name: Samik Garg
-  email: samik_garg@
-  role: Homework Tutor
-  bio: Hi! I’m Samik, a second-year EECS major here at Berkeley. I was born in Delhi, India and lived in Singapore for most of my life. This is my first semester as course staff for EECS 16A. My technical interests are in AI/ML, Full Stack Development and Mobile App Development. I also enjoy traveling and playing video games in my free time.
-  image: SamikGarg.jpg
-  imageFun: SamikGargsilly.jpg
-  pronouns: He/Him
 
 - name: Nathan Mun
   email: nathan.mun@
@@ -212,14 +221,6 @@
   bio: hi! i'm a third year from san diego studying eecs + music. i like power electronics, clash royale, watching f1, playing the clarinet + electric guitar, kr&b, newjeans, and chipotle. hyped for this semester!
   image: NathanMun.jpg
   imageFun: NathanMunsilly.jpg
-  pronouns: he/him
-
-- name: Alok Thakrar
-  email: aut@
-  role: Homework Tutor
-  bio: Hello! I'm a 2nd year EECS major from Santa Barbara, California. I'm currently involved in a computational genomics research, and am excited about the intersection of math and computing. Outside the classroom, I enjoy making fun room decor, frequenting Chipotle, and playing bughouse. Looking forward to an exquisite semester with ya'll!!
-  image: AlokThakrar.png
-  imageFun: AlokThakrarsilly.png
   pronouns: he/him
 
 - name: Jarrett Singh

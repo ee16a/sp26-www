@@ -65,6 +65,14 @@
   imageFun: SahirTandonSilly.jpg
   pronouns: he/him/his
 
+- name: Heng Yang
+  email: hengyang@
+  role: Tutor
+  bio: "Hey y'all! I'm a second year EECS student interested in statistics and machine learning. In my free time, I like to take pictures and fly FPV drones. My favorite topic in 16A is the SVD."
+  image: HengYang.jpg
+  imageFun: HengYangSilly.jpg
+  pronouns: he/him/his
+
 - name: Baris Oktay
   email: kbarisoktay@
   role: Lab TA
@@ -105,7 +113,7 @@
 
 - name: Divij Muthu
   email: divij_muthu@
-  role: Lab Staff UCS1
+  role: Lab Staff
   bio: "Hey 16A, I'm Divij, and you'll probably find me helping out with 16A's labs. I'm interested in signal processing and ML applications, for which this class is essential. I enjoy visiting new places at high frequency, playing video games e.g. BTD6 at medium frequency, and surfing Wikipedia at low frequency. Excited to support y'all this spring!"
   image: DivijMuthu.jpg
   imageFun: DivijMuthusilly.jpg
